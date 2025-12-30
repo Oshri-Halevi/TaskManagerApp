@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">מנהל המשימות</string>
+    <string name="menu_all">הכל</string>
+    <string name="menu_active">פעיל</string>
+    <string name="menu_done">בוצע</string>
+    <string name="hint_title">כותרת המשימה</string>
+    <string name="hint_description">תיאור המשימה</string>
+    <string name="btn_choose_image">בחר תמונה</string>
+    <string name="btn_save_task">שמור משימה</string>
+    <string name="error_title_required">כותרת היא שדה חובה</string>
+    <string name="btn_edit_task">ערוך משימה</string>
+    <string name="btn_delete_task">מחק משימה</string>
+    <string name="dialog_delete_title">מחיקת משימה</string>
+    <string name="dialog_delete_message">האם אתה בטוח שברצונך למחוק משימה זו?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="settings_title">הגדרות</string>
+    <string name="settings_content">מסך הגדרות</string>
+    <string name="nav_header_title">מנהל המשימות</string>
+    <string name="label_task_list">המשימות שלי</string>
+    <string name="label_add_edit_task">משימה</string>
+    <string name="label_task_details">פרטי משימה</string>
+    <string name="settings_delete_all_tasks">מחק את כל המשימות</string>
+    <string name="dialog_delete_all_title">מחיקת כל המשימות</string>
+    <string name="dialog_delete_all_message">האם אתה בטוח שברצונך למחוק את כל המשימות? פעולה זו אינה הפיכה.</string>
+
+    <string name="pref_language">שפה</string>
+    <string name="lang_english">אנגלית</string>
+    <string name="lang_hebrew">עברית</string>
+    <string name="pref_dark_mode">מצב כהה</string>
+    <string name="pref_font_size">גודל גופן</string>
+    <string name="font_small">קטן</string>
+    <string name="font_normal">רגיל</string>
+    <string name="font_large">גדול</string>
+
+    <string name="label_priority">עדיפות</string>
+    <string name="priority_low">נמוכה</string>
+    <string name="priority_normal">רגילה</string>
+    <string name="priority_high">גבוהה</string>
+    <string name="btn_pick_date">בחר תאריך</string>
+    <string name="label_due_date">תאריך יעד: %s</string>
+    <string name="no_date_selected">ללא תאריך</string>
+
+    <string name="nav_bottom_all">כל המשימות</string>
+    <string name="nav_bottom_today">היום</string>
+    <string name="nav_bottom_settings">הגדרות</string>
+
+    <string name="sort_date">מיון לפי תאריך</string>
+    <string name="sort_priority">מיון לפי עדיפות</string>
+    
+    <string name="filter_show_all">הצג הכל</string>
+    <string name="filter_show_active">הצג משימות פעילות</string>
+    <string name="filter_show_done">הצג משימות שהושלמו</string>
+    <string name="toast_title_required">נא להזין כותרת למשימה</string>
+
+    <string name="label_todays_progress">התקדמות</string>
+    <string name="progress_text">%d / %d הושלמו</string>
+
+    <string name="task_deleted">משימה נמחקה</string>
+    <string name="undo">בטל</string>
+</resources>
